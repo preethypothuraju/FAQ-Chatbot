@@ -1,0 +1,5 @@
+-Streamlit chat interface
+-Text preprocessing
+-TF-IDF feature extraction
+-Cosine similarity matching
+-Editable FAQ question-and-answer dataset
